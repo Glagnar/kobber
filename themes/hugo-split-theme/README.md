@@ -4,9 +4,6 @@ Split is a single page, centrally-divided layout for a professional online prese
 
 This Hugo theme features an image or video visual section as well as a content section for your name, tagline, bio, and links.
 
-![Hugo Split Theme screenshot](https://raw.githubusercontent.com/escalate/hugo-split-theme/master/images/screenshot.png)
-
-
 ## Installation
 
 Inside the folder of your Hugo site run:
