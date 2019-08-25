@@ -1,0 +1,48 @@
+# Site settings
+baseURL = "//komogfestmedos.com"
+languageCode = "en-US"
+title = "Gitte og Thomas Kobberbryllup"
+theme = "hugo-split-theme"
+disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap"]
+
+# Enter your tracking code to enable Google Analytics
+googleAnalytics = ""
+
+# Copyright
+copyright = "&copy;2019 Gitte ❤ Thomas"
+
+[params]
+
+  # Metadata for search engines and social sharing
+  author = "Thomas Gilbert"
+  description = "Invitation til vores Kobberbryllup."
+  shareImage = "images/social.jpg"
+  twitterHandle = "thomasbjgilbert"
+
+  # Favicon
+  favicon = "favicon.ico"
+
+  # Section - Visual
+  [params.visual]
+
+    # Image
+    [params.visual.image]
+      enable = true
+      file = "images/background.gif"
+      position = "center center"
+
+    # Video
+    [params.visual.video]
+      enable = true
+      mute = true
+      file = "videos/background.gif"
+      # youtubeId = "dk9uNWPP7EA"
+
+  # Links List #3
+  [[params.links]]
+    [params.links.list1]
+      heading = "Vælg nedenfor:"
+
+      [[params.links.list1.link]]
+        text = "Tilmelding!"
+        url = "https://forms.gle/KxuW7Jc33fXETn9y9"
