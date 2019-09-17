@@ -145,6 +145,10 @@ body.page-template-page-fullsingle-split {
   line-height: 80px;
   letter-spacing: -2px;
 
+  @media (max-width: $bp-smallish ) {
+    font-size: 36px;
+  }
+
   h1 {
     font-weight: 400;
     text-transform: uppercase;

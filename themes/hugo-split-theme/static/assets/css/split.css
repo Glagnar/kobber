@@ -184,6 +184,13 @@ body.page-template-page-fullsingle-split p {
   line-height: 80px;
   letter-spacing: -2px;
 }
+
+@media (max-width: 500px) {
+  .split-intro {
+    font-size: 36px;
+  }
+}
+
 .split-intro h1 {
   font-weight: 400;
   text-transform: uppercase;
