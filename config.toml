@@ -44,5 +44,9 @@ copyright = "&copy;2019 Gitte ❤ Thomas"
       heading = "Vælg nedenfor:"
 
       [[params.links.list1.link]]
-        text = "Tilmelding!"
+        text = "Link til Tilmelding"
         url = "https://forms.gle/KxuW7Jc33fXETn9y9"
+
+      [[params.links.list1.link]]
+        text = "Link til Gaveidéer"
+        url = "https://docs.google.com/presentation/d/e/2PACX-1vS2JHuY7KVbtZU1j8_siIllfjaS_HDDQ12djuSQ_SwB9MUI_Rivv0QFH2A8_qAeOCuDCr8LULe6GU5A/pub?start=true&loop=true&delayms=30000"
